@@ -11,3 +11,8 @@ def __init__(self, first_name, last_name, phone_number, email):
         self.phone_number = phone_number
         self.email = email
 
+def save_user_details(self):
+        """
+        save_contact method saves contact objects into user_array
+        """
+        User.users_array.append(self)
