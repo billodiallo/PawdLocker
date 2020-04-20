@@ -1,4 +1,8 @@
-The Mercurial Password Locker
+
+#### Quotes, April 20th 2020
+#### By **Mamadou Billo Diallo**
+
+The Password Locker
 Project Description
 This project enables a user to store old accounts credentials and create new ones. the program also stores. Users get the option to come up with their own passwords or the program can generate one for them. the program further displays the user accounts and passwords upon being prompted.
 
