@@ -28,7 +28,7 @@ Any contributions to this projects will be greatly appreciated. If you want to c
 Clone this GitHub repository to your local machine.
 git clone 
 Make your contributions.
-Email me the zipped project at munenecyp@gmail.com , or
+Email me the zipped project at billodiallonet@gmail.com , or
 Request permissions to post your contribution at my GitHub repository through the same email address.
 Alternatively, you could email the main developer at munenecyp@gmail.com with ideas on how this project could be more effective, efficient or beneficial.
 
@@ -39,7 +39,7 @@ Authors
 Cyprian Munene, any other contributor after the completion of the work can be viewed at this GitHub repository
 
 Copyright
-All Rights Reserved by @MercurialMune Other GitHub can however fork or clone this repository provided the necessary credit is given to the original author
+All Rights Reserved by @Billodiallo Other GitHub can however fork or clone this repository provided the necessary credit is given to the original author
 
 License
 This project is licensed under the MIT License. Moringa School moreover retains certain rights to elements in the code of this program.
